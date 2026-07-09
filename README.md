@@ -1,4 +1,4 @@
-# CHB Resultats — Agenda i partits per a WordPress
+# WP-SPORT-AGENDA — Agenda i partits per a WordPress
 
 Plugin modular per a WordPress dissenyat per a la gestió centralitzada, automatització i publicació de calendaris esportius, agendes de partits i marcadors en temps real.
 
