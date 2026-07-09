@@ -12,7 +12,7 @@ El mòdul unifica el control de l'activitat esportiva des de l'escriptori de Wor
 
 ## Característiques tècniques
 
-* **Custom Post Type (CPT):** Panell d'administració独立 per a la gestió aïllada dels partits.
+* **Custom Post Type (CPT):** Panell d'administració per a la gestió aïllada dels partits.
 * **Taxonomies personalitzades:** Classificació indexada de la base de dades per seccions i categories.
 * **Filtratge asíncron (JS):** Motor de cerca en frontend que avalua els atributs de la graella a l'instant sense recàrrega de pàgina.
 * **Integració modular:** Arquitectura adaptada per renderitzar mitjançant shortcodes natius o com a widget personalitzat.
